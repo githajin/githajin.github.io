@@ -21,8 +21,8 @@ author: TOSAM
 
 navbar-links:
   HOME: "https://tosamfam.github.io/"
-  쿠팡상품비교: "https://link.coupang.com/a/bxOIa2"
-  알리상품비교: "https://s.click.aliexpress.com/e/_DE59pjb"
+  ♥쿠팡상품비교: "https://link.coupang.com/a/bxOIa2"
+  ♥알리상품비교: "https://s.click.aliexpress.com/e/_DE59pjb"
 
 ################
 # --- Logo --- #
@@ -256,11 +256,11 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "ASIA/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 20
 
 kramdown:
   input: GFM
