@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: TOSAM PICK
+title: HAJIN PICK
 
 # Your name to show in the footer
-author: TOSAM
+author: HAJIN
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  HOME: "https://tosamfam.github.io/"
+  HOME: "https://githajin.github.io/"
   ♥쿠팡상품비교: "https://link.coupang.com/a/bxOIa2"
   ♥알리상품비교: "https://s.click.aliexpress.com/e/_DE59pjb"
 
@@ -98,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "TOSAMFAM"
+url-pretty: "HAJIN"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -133,7 +133,7 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#e83e8c;"
+navbar-text-col: "#008f76"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
